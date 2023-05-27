@@ -1,0 +1,52 @@
+state,legality,medicinal,decriminalized
+Alabama,Fully Illegal,false,false
+Alaska,Fully Legal,true,true
+Arizona,Fully Legal,true,true
+Arkansas,Medical,true,false
+California,Fully Legal,true,true
+Colorado,Fully Legal,true,true
+Connecticut,Medical,true,true
+Delaware,Medical,true,true
+Florida,Medical,true,false
+Georgia,Medical,false,false
+Hawaii,Medical,true,true
+Idaho,Fully Illegal,false,false
+Illinois,Fully Legal,true,true
+Indiana,Medical,false,false
+Iowa,Medical,false,false
+Kansas,Medical,true,false
+Kentucky,Medical,false,false
+Louisiana,Medical,true,false
+Maine,Fully Legal,true,true
+Maryland,Medical,true,true
+Massachusetts,Fully Legal,true,true
+Michigan,Fully Legal,true,true
+Minnesota,Medical,true,true
+Mississippi,Medical,true,true
+Missouri,Medical,true,true
+Montana,Fully Legal,true,true
+Nebraska,Medical,false,true
+Nevada,Fully Legal,true,true
+New Hampshire,Medical,true,true
+New Jersey,Fully Legal,true,true
+New Mexico,Medical,true,true
+New York,Medical,true,true
+North Carolina,Medical,false,true
+North Dakota,Medical,true,true
+Ohio,Medical,true,true
+Oklahoma,Medical,true,false
+Oregon,Fully Legal,true,true
+Pennsylvania,Medical,true,false
+Rhode Island,Medical,true,true
+South Carolina,Fully Illegal,false,false
+South Dakota,Fully Illegal,true,true
+Tennessee,Fully Illegal,false,false
+Texas,Medical,true,false
+Utah,Medical,true,false
+Vermont,Fully Legal,true,true
+Virginia,Fully Legal,true,true
+Washington,Fully Legal,true,true
+West Virginia,Medical,true,false
+Wisconsin,Medical,false,false
+Wyoming,Fully Illegal,false,false
+District of Columbia,Fully Legal,true,true
