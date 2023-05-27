@@ -2,6 +2,16 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
+# 1. Linear Regression:
+#    - The linear regression line is fitted to the data points.
+#    - The slope of the line indicates the estimated change in high quality price per ounce for a one-unit increase in the percentage of white people.
+#    - The intercept represents the estimated high quality price per ounce when the percentage of white people is zero.
+
+# 2. Coefficients and Intercept:
+#    - The coefficient (slope) value reflects the estimated change in high quality price per ounce for a one-unit increase in the percentage of white people.
+#    - The intercept represents the estimated high quality price per ounce when the percentage of white people is zero.
+#    - It's important to note that in this analysis, the coefficient and intercept should be interpreted cautiously due to the lack of a strong linear relationship.
+
 # Read the data
 weed_data = pd.read_csv('weed_clean.csv')
 
@@ -38,13 +48,3 @@ plt.show()
 # Print the coefficients and intercept
 print('Coefficient (slope):', slope)
 print('Intercept:', intercept)
-
-# 1. Linear Regression:
-#    - The linear regression line is fitted to the data points.
-#    - The slope of the line indicates the estimated change in high quality price per ounce for a one-unit increase in the percentage of white people.
-#    - The intercept represents the estimated high quality price per ounce when the percentage of white people is zero.
-
-# 2. Coefficients and Intercept:
-#    - The coefficient (slope) value reflects the estimated change in high quality price per ounce for a one-unit increase in the percentage of white people.
-#    - The intercept represents the estimated high quality price per ounce when the percentage of white people is zero.
-#    - It's important to note that in this analysis, the coefficient and intercept should be interpreted cautiously due to the lack of a strong linear relationship.

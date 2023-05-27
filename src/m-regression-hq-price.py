@@ -2,6 +2,8 @@ import pandas as pd
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
 
+# The multiple regression model is fitted using the Ordinary Least Squares (OLS) method from the `statsmodels library. The code prints the summary of the regression model, which provides information about the coefficients, standard errors, p-values, and other statistics.
+
 # Read the data
 weed_data = pd.read_csv('weed_clean.csv')
 
